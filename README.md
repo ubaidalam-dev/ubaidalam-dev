@@ -56,9 +56,6 @@ I am a Computer Science student and self-driven developer focused on building mo
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🤖 **SmartResume AI** | AI-powered resume builder that generates tailored resumes from user input | JavaScript, OpenAI API |
-| 🔗 **LinkHub** | Custom link-in-bio page builder with real-time preview | HTML, CSS, JavaScript |
-| 💬 **AI Chat Widget** | Embeddable AI chat assistant for any website | JavaScript, OpenAI API |
-| 🎨 **DevPortfolio Pro** | Responsive developer portfolio template | HTML, CSS, JavaScript |
 | 🌐 **Personal Portfolio Website** | Fully responsive personal portfolio showcasing projects and skills | HTML5, CSS3, JavaScript |
 | ✅ **AI Content Generator Tool** | Web tool that generates content using AI API with a clean UI | HTML, CSS, JavaScript, AI API |
 | 📚 **Study Tracker Web App** | Web app to track study sessions, goals, and progress | HTML, CSS, Python, LocalStorage |
