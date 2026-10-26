@@ -2,7 +2,7 @@
 
 # Ubaid Alam
 
-**Pythpn juniore Developer & AI Integration Specialist**
+**Pythpn junior Developer & AI Integration Specialist**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alamubaid2020@gmail.com)
 
