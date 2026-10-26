@@ -56,6 +56,15 @@ I am a Computer Science student and self-driven developer focused on building mo
 | 🌐 **Personal Portfolio Website** | Fully responsive personal portfolio showcasing projects and skills | HTML5, CSS3, JavaScript |
 
 
+## My Projects
+
+### Simple Python Calculator
+A beginner Python project that performs basic arithmetic operations and handles common input errors.
+
+- **Technology:** Python
+- **Skills practiced:** Variables, user input, conditional statements, arithmetic operations, and exception handling.
+- **Repository:** [View Python Learning Journey](https://github.com/ubaidalam-dev/python-learning-journey)
+
 ## GitHub Statistics
 
 <div align="center">
